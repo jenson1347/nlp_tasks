@@ -1,0 +1,4 @@
+обучал llm ку в колабе, но гит почему то не может отобразить код, ниже ссылка на сам колаб
+
+
+https://colab.research.google.com/drive/1LtAuhtELCKHZbXVaGhgyxPiZbGQn3vuU?usp=drive_link
