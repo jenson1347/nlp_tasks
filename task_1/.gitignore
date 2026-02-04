@@ -1,0 +1,3 @@
+*.txt
+fasttext_model.bin
+prc_1.csv
