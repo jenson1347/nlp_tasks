@@ -1,0 +1,4 @@
+Ссылка на ноутбук с моделями основанными на берте. Впадлу на компе обучать, обучал в калабе
+
+
+https://colab.research.google.com/drive/1s8sWlrF3xsP1jdjQBwEL9I4cyOCvIA7-?usp=sharing
